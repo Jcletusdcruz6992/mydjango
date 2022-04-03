@@ -1,0 +1,2 @@
+django-admin startproject first_project
+python manage.py runserver

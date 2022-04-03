@@ -7,3 +7,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Jcletusdcruz6992/mydjango.git
 git push -u origin main
+python manage.py startapp first_app

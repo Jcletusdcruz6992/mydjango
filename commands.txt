@@ -1,3 +1,6 @@
+$ conda create --name myDjangoEnv django
+$ conda activate myDjangoEnv
+$ conda deactivate
 django-admin startproject first_project
 python manage.py runserver
 echo "# Ethical_hacking" >> README.md
